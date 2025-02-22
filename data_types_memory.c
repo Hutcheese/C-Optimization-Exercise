@@ -118,10 +118,6 @@ int main() {
         getchar();  // Wait for the user to press Enter
         clear_screen();
     }
-    
-    printf("Exiting the program...\n");
-    Sleep(1);
-    clear_screen();
 
     return 0;
 }
